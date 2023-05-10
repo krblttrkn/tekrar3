@@ -31,3 +31,6 @@ public class Alan {
 }
 
 ```
+# Patika Profilim
+***
+<a href="https://academy.patika.dev/profile">Patika Profilim</a>
